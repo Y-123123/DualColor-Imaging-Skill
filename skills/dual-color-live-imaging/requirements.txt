@@ -1,0 +1,9 @@
+# Reproducible versions used for the v1.0.0 Windows / Python 3.14.3 checks.
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+matplotlib==3.10.9
+scikit-image==0.26.0
+czifile==2026.6.12
+tifffile==2026.7.14
+networkx==3.6.1
